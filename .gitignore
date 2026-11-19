@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.reference/
+
+.vercel
+/JC_Portfolio.zip
+/JC_Portfolio/
